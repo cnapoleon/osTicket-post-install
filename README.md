@@ -53,8 +53,25 @@ I started this lab by logging into osTicket.
 <img src="https://i.imgur.com/iOtMu9I.png" height="80%" width="80%" alt="created a level 2 team"/>
 </p>
 
+<p>
+<img src="https://i.imgur.com/ZbTUflO.png" height="80%" width="80%" alt="jane agent"/>
+</p>
 
+<p>
+<img src="https://i.imgur.com/xii7W0V.png" height="80%" width="80%" alt="john agent"/>
+</p>
 
+<p>
+<img src="https://i.imgur.com/MaKYJYE.png" height="80%" width="80%" alt="new users"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/SPUOyoU.png" height="80%" width="80%" alt="SLA"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/ql4Qpba.png" height="80%" width="80%" alt="Help Topics"/>
+</p>
 
 
 
