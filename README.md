@@ -38,19 +38,31 @@ I started this lab by logging into osTicket.
 </p>
 
 <p>
+Too create a new role. There is a button labeled “Add New Role”. It brought up a prompt and I created the role of “Supreme Admin”.
+</p>
+
+<p>
 <img src="https://i.imgur.com/4wwTdai.png" height="80%" width="80%" alt="I Created Role"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/oTqpNUp.png" height="80%" width="80%" alt="New Department"/>
+Then after I created roles I created new departments.
 </p>
 
 <p>
 <img src="https://i.imgur.com/oTqpNUp.png" height="80%" width="80%" alt="New Department"/>
+</p>
+
+<p>
+I added a new team so that tickets can be elevated when needed.
 </p>
 
 <p>
 <img src="https://i.imgur.com/iOtMu9I.png" height="80%" width="80%" alt="created a level 2 team"/>
+</p>
+
+<p>
+I added a new team so that tickets can be elevated when needed.
 </p>
 
 <p>
@@ -62,7 +74,15 @@ I started this lab by logging into osTicket.
 </p>
 
 <p>
+I then added agents that can sign into osTicket. Some had administrative privileges and others didn't. With these new agents I was able to edit SLA. or comment on the ticket that the problem was being worked on. It gave me a true understanding of how an actual work environment would feel like. 
+</p>
+
+<p>
 <img src="https://i.imgur.com/MaKYJYE.png" height="80%" width="80%" alt="new users"/>
+</p>
+
+<p>
+I then created new users. In the end users portal I can submit a new ticket.
 </p>
 
 <p>
@@ -70,22 +90,16 @@ I started this lab by logging into osTicket.
 </p>
 
 <p>
+I created different priorities categories called SLA. The administrative agents can use these to let other team members know the severity of the tickets.
+</p>
+
+<p>
 <img src="https://i.imgur.com/ql4Qpba.png" height="80%" width="80%" alt="Help Topics"/>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
 <p>
-From there, I downloaded it and installed PHP manager for IIS. I downloaded a rewrite module. I created a directory in my C folder for PHP. Continuing, I downloaded the latest version of PHP into my newly created folder in my C drive directory. To get PHP to work I downloaded and installed C++ redistributable, and mySQL
+I created new help topics so the user can better describe the problem they are experiencing. In turn my agents can more efficiently solve their problems.
 </p>
-<br />
+
+
+
