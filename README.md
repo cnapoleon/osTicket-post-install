@@ -1,4 +1,4 @@
-# osTicket-post-install
+# osTicket Post Install
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
