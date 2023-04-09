@@ -62,7 +62,7 @@ I added a new team so that tickets can be elevated when needed.
 </p>
 
 <p>
-I added a new team so that tickets can be elevated when needed.
+I then added agents that can sign into osTicket. Some had administrative privileges and others didn't. With these new agents I was able to edit SLA. or comment on the ticket that the problem was being worked on. It gave me a true understanding of how an actual work environment would feel like. 
 </p>
 
 <p>
@@ -74,7 +74,7 @@ I added a new team so that tickets can be elevated when needed.
 </p>
 
 <p>
-I then added agents that can sign into osTicket. Some had administrative privileges and others didn't. With these new agents I was able to edit SLA. or comment on the ticket that the problem was being worked on. It gave me a true understanding of how an actual work environment would feel like. 
+I then created new users. In the end users portal I can submit a new ticket.
 </p>
 
 <p>
@@ -82,7 +82,7 @@ I then added agents that can sign into osTicket. Some had administrative privile
 </p>
 
 <p>
-I then created new users. In the end users portal I can submit a new ticket.
+I created different priorities categories called SLA. The administrative agents can use these to let other team members know the severity of the tickets.
 </p>
 
 <p>
@@ -90,15 +90,11 @@ I then created new users. In the end users portal I can submit a new ticket.
 </p>
 
 <p>
-I created different priorities categories called SLA. The administrative agents can use these to let other team members know the severity of the tickets.
+I created new help topics so the user can better describe the problem they are experiencing. In turn my agents can more efficiently solve their problems.
 </p>
 
 <p>
 <img src="https://i.imgur.com/ql4Qpba.png" height="80%" width="80%" alt="Help Topics"/>
-</p>
-
-<p>
-I created new help topics so the user can better describe the problem they are experiencing. In turn my agents can more efficiently solve their problems.
 </p>
 
 
